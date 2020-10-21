@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>APG Kristal group</title>
-    <meta content="" name="descriptions">
-    <meta content="" name="keywords">
+    <meta content="A.P.G Kristal group je društvo za proizvodnju, trgovinu i usluge, osnovano 2008 godine u Beogradu..." name="description">
+    <meta content="Auminijumska folija, Papir za pecenje, prijanjajuca folija, kristal group, folija" name="keywords">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
@@ -77,8 +77,8 @@
             <div class="row about-container">
 
                 <div class="col-lg-6 content order-lg-1 order-2">
-                    <h2 class="title"> A.P.G Kristal group je</h2>
-                    <p>društvo za proizvodnju, trgovinu i usluge, osnovano 2008 godine u Beogradu sa osnovnom delatnošću:
+                    <h2 class="title">A.P.G Kristal group je</h2>
+                    <p>-društvo za proizvodnju, trgovinu i usluge, osnovano 2008 godine u Beogradu sa osnovnom delatnošću:
                         uvoz, proizvodnja, pakovanje i distribucija svih vrsta kuhinjskih folija kako za upotrebu u
                         domaćinstvima tako i za profesionalnu upotrebu u ugostiteljskim objektima.</p>
 
@@ -281,15 +281,14 @@
                                 <div class="validate"></div>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Poruka" placeholder="Message"></textarea>
+                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Poruka" placeholder="Poruka"></textarea>
                                 <div class="validate"></div>
                             </div>
                             <div class="mb-3">
-                                <div class="loading">Loading</div>
                                 <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                                <div class="sent-message">Vaša poruka je poslata!</div>
                             </div>
-                            <div class="text-center"><button type="submit">Send Message</button></div>
+                            <div class="text-center"><button type="submit">Pošalji</button></div>
                         </form>
                     </div>
                 </div>
