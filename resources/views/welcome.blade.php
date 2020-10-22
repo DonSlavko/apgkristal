@@ -7,7 +7,7 @@
 
     <title>APG Kristal group</title>
     <meta content="A.P.G Kristal group je društvo za proizvodnju, trgovinu i usluge, osnovano 2008 godine u Beogradu..." name="description">
-    <meta content="Auminijumska folija, Papir za pecenje, prijanjajuca folija, kristal group, folija" name="keywords">
+    <meta content="APG Kristal Group, Auminijumska folija, Papir za pecenje, prijanjajuca folija, folija" name="keywords">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
