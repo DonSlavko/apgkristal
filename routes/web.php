@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('alufolija', function () {
+    return view('alu-foil');
+});
 
 Route::get('example', function () {
     return view('example-page');

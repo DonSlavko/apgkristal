@@ -77,22 +77,22 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                     <div class="box">
-                        <div class="icon"><a href=""><i class="fa fa-desktop"></i></a></div>
-                        <h4 class="title"><a href="">Aluminijumska folija</a></h4>
+                        <div class="icon"><a href=""><i class="fa fa-cube"></i></a></div>
+                        <h4 class="title"><a href="">Konfekcija</a></h4>
                         <p class="description">Aluminijumska folija je odličan saveznik u svakoj kuhinji. Često se koristi prilikom pečenja, ali i kod zamrzavanja namirnica.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                     <div class="box">
-                        <div class="icon"><a href=""><i class="fa fa-bar-chart"></i></a></div>
-                        <h4 class="title"><a href="">Prijanjajuća folija</a></h4>
+                        <div class="icon"><a href=""><i class="fa fa-cubes"></i></a></div>
+                        <h4 class="title"><a href="">Profesionalni kupci</a></h4>
                         <p class="description">Primena prijanjajuće folije veže se uz prehrambenu industriju, pića, farmaceutsku industriju, supermarkete, poljoprivredu i gotovo svim drugim industrijskim granama.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                     <div class="box">
-                        <div class="icon"><a href=""><i class="fa fa-paper-plane"></i></a></div>
-                        <h4 class="title"><a href="">Papir za pečenje</a></h4>
+                        <div class="icon"><a href=""><i class="fa fa-database"></i></a></div>
+                        <h4 class="title"><a href="">Jambo Rolne</a></h4>
                         <p class="description">Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi tavu od paljenja i pomoći domaćici da brže rešava kuhinjske poslove.</p>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
     <section id="portfolio" class="portfolio">
         <div class="container" data-aos="fade-up">
             <div class="section-header">
-                <h3 class="section-title">Galerija</h3>
+                <h3 class="section-title">Proizvodi</h3>
                 <p class="section-description">Iz asortimana proizvoda za domaćinstvo izdvajamo aluminijumsku foliju, streč foliju i papir za pečenje, u pojedinačnim pakovanjima različitih dimenzija u zavisnosti od potreba kupaca…</p>
             </div>
 
@@ -151,6 +151,58 @@
                     </div>
                     <div class="portfolio-info">
                         <h4>Papir za pečenje</h4>
+                        <p></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>Aluminijumske posude</h4>
+                        <p></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>Žica za sudove</h4>
+                        <p></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>PVC folija</h4>
+                        <p></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 offset-md-4 portfolio-item">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
+                        <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>Papir u tabacima</h4>
                         <p></p>
                     </div>
                 </div>

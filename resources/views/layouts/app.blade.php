@@ -50,14 +50,30 @@
         <nav id="nav-menu-container">
             <ul class="nav-menu">
                 @if($landing)
-                    <li class="menu-active"><a href="#hero">Pocetna</a></li>
+                    <li class="menu-active"><a href="#hero">Početna</a></li>
+                    <li><a href="#about">O nama</a></li>
+                    <li><a href="#services">Usluge</a></li>
+                    <li class="menu-has-children"><a href="#portfolio">Proizvodi</a>
+                        <ul>
+                            <li><a href="/alufolija">Alufolijama</a></li>
+                            <li><a href="#">Prijanjajuce folije</a></li>
+                            <li><a href="#">Papir za pecenje</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#contact">Kontakt</a></li>
                 @else
                     <li><a href="/">Pocetna</a></li>
+                    <li><a href="/#about">O nama</a></li>
+                    <li><a href="/#services">Usluge</a></li>
+                    <li class="menu-has-children"><a href="/#portfolio">Proizvodi</a>
+                        <ul>
+                            <li><a href="/alufolija">Alufolijama</a></li>
+                            <li><a href="#">Prijanjajuce folije</a></li>
+                            <li><a href="#">Papir za pecenje</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/#contact">Kontakt</a></li>
                 @endif
-                <li><a href="#about">O nama</a></li>
-                <li><a href="#services">Usluge</a></li>
-                <li><a href="#portfolio">Galerija</a></li>
-                <li><a href="#contact">Kontakt</a></li>
             </ul>
         </nav><!-- #nav-menu-container -->
     </div>
