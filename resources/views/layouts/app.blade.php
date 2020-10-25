@@ -44,7 +44,7 @@
         <div id="logo" class="pull-left">
             <!--<a href="index.html">KRISTAL&lt;!&ndash;<img src="assets/img/logo.png" alt="">&ndash;&gt;</a>-->
             <!-- Uncomment below if you prefer to use a text logo -->
-            <h1><a href="#hero">Kristal</a></h1>
+            <h1><a href="/">Kristal</a></h1>
         </div>
 
         <nav id="nav-menu-container">

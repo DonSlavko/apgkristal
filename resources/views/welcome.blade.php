@@ -22,7 +22,7 @@
 
                     <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon"><i class="fa fa-shopping-bag"></i></div>
-                        <h4 class="title"><a href="">O nama</a></h4>
+                        <h4 class="title">O nama</h4>
                         <p class="description">Za 12 godina iskustva i kontinuiranog razvoja stali smo rame uz rame sa
                             liderima u branši pa tako sada robu i proizvode plasiramo širom države uključujući i velike
                             trgovinske lance ali i, uz čvrstu saradnju u zemlje regiona. Konstantnim inovacijama i
@@ -34,7 +34,7 @@
 
                     <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                         <div class="icon"><i class="fa fa-photo"></i></div>
-                        <h4 class="title"><a href="">Upotreba</a></h4>
+                        <h4 class="title">Upotreba</h4>
                         <p class="description">Aluminijumska folija koristi se za proizvodnju aseptičnih, dugotrajnih
                             pakovanja pića i mlečnih proizvoda, prilikom pečenja, pakovanja i prenošenja hrane.
                             Takođe, alu folija je široko rasporostranjena u procesima toplotne izolacije, a u posebnim
@@ -47,7 +47,7 @@
 
                     <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                         <div class="icon"><i class="fa fa-bar-chart"></i></div>
-                        <h4 class="title"><a href="">Nezaobilazna u modernoj kuhinji</a></h4>
+                        <h4 class="title">Nezaobilazna u modernoj kuhinji</h4>
                         <p class="description">Upotreba aluminijumske folije je ipak najrasprostranjenija u domaćinstvu.
                             U modernoj kuhinji danas se gotovo i ne može bez aluminijumske folije, zbog toga što se
                             može koristiti za kuvanje, čuvanje i prenošenje hrane. Idealna je za: kuvanje i podgrevanje
@@ -77,22 +77,22 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                     <div class="box">
-                        <div class="icon"><a href=""><i class="fa fa-cube"></i></a></div>
-                        <h4 class="title"><a href="">Konfekcija</a></h4>
+                        <div class="icon"><i class="fa fa-cube"></i></div>
+                        <h4 class="title">Konfekcija</h4>
                         <p class="description">Aluminijumska folija je odličan saveznik u svakoj kuhinji. Često se koristi prilikom pečenja, ali i kod zamrzavanja namirnica.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                     <div class="box">
-                        <div class="icon"><a href=""><i class="fa fa-cubes"></i></a></div>
-                        <h4 class="title"><a href="">Profesionalni kupci</a></h4>
+                        <div class="icon"><i class="fa fa-cubes"></i></div>
+                        <h4 class="title">Profesionalni kupci</h4>
                         <p class="description">Primena prijanjajuće folije veže se uz prehrambenu industriju, pića, farmaceutsku industriju, supermarkete, poljoprivredu i gotovo svim drugim industrijskim granama.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                     <div class="box">
-                        <div class="icon"><a href=""><i class="fa fa-database"></i></a></div>
-                        <h4 class="title"><a href="">Jambo Rolne</a></h4>
+                        <div class="icon"><i class="fa fa-database"></i></div>
+                        <h4 class="title">Jambo Rolne</h4>
                         <p class="description">Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi tavu od paljenja i pomoći domaćici da brže rešava kuhinjske poslove.</p>
                     </div>
                 </div>
