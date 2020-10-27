@@ -117,8 +117,7 @@
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
                 <div class="col-lg-4 col-md-6 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/alu-1.png" class="img-fluid" alt="Aluminijumska folija">
+                    <div class="owl-carousel portfolio-details-carousel-1">
                         <img src="assets/img/portfolio/alu-2.png" class="img-fluid" alt="Aluminijumska folija">
                         <img src="assets/img/portfolio/alu-3.png" class="img-fluid" alt="Aluminijumska folija">
                         <img src="assets/img/portfolio/alu-4.png" class="img-fluid" alt="Aluminijumska folija">
@@ -130,8 +129,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/fol-1.png" class="img-fluid" alt="Prijanjajuća folija">
+                    <div class="owl-carousel portfolio-details-carousel-2">
                         <img src="assets/img/portfolio/fol-2.png" class="img-fluid" alt="Prijanjajuća folija">
                         <img src="assets/img/portfolio/fol-3.png" class="img-fluid" alt="Prijanjajuća folija">
                         <img src="assets/img/portfolio/fol-4.png" class="img-fluid" alt="Prijanjajuća folija">
@@ -143,8 +141,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                    <div class="owl-carousel portfolio-details-carousel-3">
                         <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
@@ -156,8 +153,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                    <div class="owl-carousel portfolio-details-carousel-4">
                         <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
@@ -169,8 +165,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                    <div class="owl-carousel portfolio-details-carousel-5">
                         <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
@@ -182,8 +177,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                    <div class="owl-carousel portfolio-details-carousel-6">
                         <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">
@@ -195,8 +189,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 offset-md-4 portfolio-item">
-                    <div class="owl-carousel portfolio-details-carousel">
-                        <img src="assets/img/portfolio/pap-1.png" class="img-fluid" alt="Papir za pečenje">
+                    <div class="owl-carousel portfolio-details-carousel-7">
                         <img src="assets/img/portfolio/pap-2.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-3.png" class="img-fluid" alt="Papir za pečenje">
                         <img src="assets/img/portfolio/pap-4.png" class="img-fluid" alt="Papir za pečenje">

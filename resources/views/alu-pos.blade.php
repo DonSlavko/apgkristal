@@ -1,7 +1,7 @@
 @extends('layouts.app', ['landing' => false])
 
 @section('content')
-    <section class="inner-page-alu-foil">
+    <section class="inner-page-alu-pos">
         <div class="hero-container" data-aos-delay="100">
 
         </div>

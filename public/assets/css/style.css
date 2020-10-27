@@ -241,9 +241,53 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid #3386ff;
 }
 
-.inner-page {
+.inner-page-alu-foil {
+    width: 100%;
+    background-image: url(../img/portfolio/alufolija.webp) !important;
     background-position: center bottom !important;
-    height: 60vh !important;
+    height: 100vh !important;
+}
+
+.inner-page-alu-pos {
+    width: 100%;
+    background-image: url(../img/portfolio/aluposude.webp) !important;
+    background-position: center bottom !important;
+    height: 100vh !important;
+}
+
+.inner-page-pap-tab {
+    width: 100%;
+    background-image: url(../img/portfolio/papir_u_tabacima.webp) !important;
+    background-position: center bottom !important;
+    height: 100vh !important;
+}
+
+.inner-page-pap-pec {
+    width: 100%;
+    background-image: url(../img/portfolio/papir_za_pecenje.webp) !important;
+    background-position: center bottom !important;
+    height: 100vh !important;
+}
+
+.inner-page-pri-foil {
+    width: 100%;
+    background-image: url(../img/portfolio/prijanjajuca_folija.webp) !important;
+    background-position: center bottom !important;
+    height: 100vh !important;
+}
+
+.inner-page-pvc-foil {
+    width: 100%;
+    background-image: url(../img/portfolio/pvc_folija.webp) !important;
+    background-position: center bottom !important;
+    height: 100vh !important;
+}
+
+.inner-page-zic-sud {
+    width: 100%;
+    background-image: url(../img/portfolio/zica_za_sudove.webp) !important;
+    background-position: center bottom !important;
+    height: 100vh !important;
 }
 
 /*--------------------------------------------------------------

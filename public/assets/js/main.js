@@ -155,13 +155,41 @@
     });
   });
 
-  // Portfolio details carousel
+  /*// Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
-    autoplay: true,
+    autoplay: false,
     dots: true,
     loop: true,
     items: 1
   });
+
+
+    $('.portfolio-details-carousel').mouseover().owlCarousel({
+        autoplay: true,
+    });
+
+    $('.portfolio-details-carousel').mouseleave().owlCarousel({
+        autoplay: false,
+    });*/
+
+    let owl = []
+    for (let i = 1; i < 8; i++) {
+        owl[i] = $(`.portfolio-details-carousel-${i}`);
+
+        owl[i].owlCarousel({
+            items: 1,
+            loop:true,
+            autoplay:false,
+            autoplayTimeout: 2000,
+        });
+
+        owl[i].on('mouseover',function(){
+            owl[i].trigger('play.owl.autoplay'); //this is main line to fix it
+        })
+        owl[i].on('mouseleave',function(){
+            owl[i].trigger('stop.owl.autoplay');
+        })
+    }
 
   // Init AOS
   function aos_init() {

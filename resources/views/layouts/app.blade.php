@@ -55,9 +55,13 @@
                     <li><a href="#services">Usluge</a></li>
                     <li class="menu-has-children"><a href="#portfolio">Proizvodi</a>
                         <ul>
-                            <li><a href="/alufolija">Alufolijama</a></li>
-                            <li><a href="#">Prijanjajuce folije</a></li>
-                            <li><a href="#">Papir za pecenje</a></li>
+                            <li><a href="/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
+                            <li><a href="/prijanjajuca-foilja">PRIJANJAJUĆA FOLIJA</a></li>
+                            <li><a href="/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
+                            <li><a href="/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
+                            <li><a href="/papir-u-tabacima">PAPIR U TABACIMA</a></li>
+                            <li><a href="/pvc-folija">PVC FOLIJA</a></li>
+                            <li><a href="/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
                     <li><a href="#contact">Kontakt</a></li>
@@ -67,9 +71,13 @@
                     <li><a href="/#services">Usluge</a></li>
                     <li class="menu-has-children"><a href="/#portfolio">Proizvodi</a>
                         <ul>
-                            <li><a href="/alufolija">Alufolijama</a></li>
-                            <li><a href="#">Prijanjajuce folije</a></li>
-                            <li><a href="#">Papir za pecenje</a></li>
+                            <li><a href="/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
+                            <li><a href="/prijanjajuca-foilja">PRIJANJAJUĆA FOLIJA</a></li>
+                            <li><a href="/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
+                            <li><a href="/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
+                            <li><a href="/papir-u-tabacima">PAPIR U TABACIMA</a></li>
+                            <li><a href="/pvc-folija">PVC FOLIJA</a></li>
+                            <li><a href="/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
                     <li><a href="/#contact">Kontakt</a></li>

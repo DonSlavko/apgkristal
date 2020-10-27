@@ -16,10 +16,25 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('alufolija', function () {
+
+Route::get('aluminijumska-folija', function () {
     return view('alu-foil');
 });
-
-Route::get('example', function () {
-    return view('example-page');
+Route::get('aluminijumske-posude', function () {
+    return view('alu-pos');
+});
+Route::get('papir-za-pecenje', function () {
+    return view('pap-pec');
+});
+Route::get('papir-u-tabacima', function () {
+    return view('pap-tab');
+});
+Route::get('prijanjajuca-foilja', function () {
+    return view('pri-foil');
+});
+Route::get('pvc-folija', function () {
+    return view('pvc-foil');
+});
+Route::get('zica-za-sudove', function () {
+    return view('zic-sud');
 });
