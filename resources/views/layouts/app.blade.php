@@ -52,7 +52,13 @@
                 @if($landing)
                     <li class="menu-active"><a href="#hero">Početna</a></li>
                     <li><a href="#about">O nama</a></li>
-                    <li><a href="#services">Usluge</a></li>
+                    <li class="menu-has-children"><a href="#services">Usluge</a>
+                        <ul>
+                            <li><a href="/konfekcija">KONFEKCIJA</a></li>
+                            <li><a href="/profesionalni-kupci">PROFESIONALNI KUPCI</a></li>
+                            <li><a href="/jambo-rolne">JAMBO ROLNE</a></li>
+                        </ul>
+                    </li>
                     <li class="menu-has-children"><a href="#portfolio">Proizvodi</a>
                         <ul>
                             <li><a href="/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
@@ -68,7 +74,13 @@
                 @else
                     <li><a href="/">Pocetna</a></li>
                     <li><a href="/#about">O nama</a></li>
-                    <li><a href="/#services">Usluge</a></li>
+                    <li class="menu-has-children"><a href="/#services">Usluge</a>
+                        <ul>
+                            <li><a href="/konfekcija">KONFEKCIJA</a></li>
+                            <li><a href="/profesionalni-kupci">PROFESIONALNI KUPCI</a></li>
+                            <li><a href="/jambo-rolne">JAMBO ROLNE</a></li>
+                        </ul>
+                    </li>
                     <li class="menu-has-children"><a href="/#portfolio">Proizvodi</a>
                         <ul>
                             <li><a href="/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>

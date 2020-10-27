@@ -280,9 +280,10 @@ h1, h2, h3, h4, h5, h6 {
     background-position: center bottom !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto !important;
+    height: 100vh !important;
 }
 
-@media only screen  and (min-width : 1224px) {
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
     .inner-page-alu-foil,
     .inner-page-alu-pos,
     .inner-page-pap-tab,
@@ -294,42 +295,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-@media only screen  and (max-width : 1224px) {
-    .inner-page-alu-foil,
-    .inner-page-alu-pos,
-    .inner-page-pap-tab,
-    .inner-page-pap-pec,
-    .inner-page-pri-foil,
-    .inner-page-pvc-foil,
-    .inner-page-zic-sud {
-        height: 80vh !important;
-    }
-}
-
-@media (max-width: 1024px) and (orientation : portrait) {
-    .inner-page-alu-foil,
-    .inner-page-alu-pos,
-    .inner-page-pap-tab,
-    .inner-page-pap-pec,
-    .inner-page-pri-foil,
-    .inner-page-pvc-foil,
-    .inner-page-zic-sud {
-        height: 60vh !important;
-    }
-}
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-    .inner-page-alu-foil,
-    .inner-page-alu-pos,
-    .inner-page-pap-tab,
-    .inner-page-pap-pec,
-    .inner-page-pri-foil,
-    .inner-page-pvc-foil,
-    .inner-page-zic-sud {
-        height: 70vh !important;
-    }
-}
-
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
     .inner-page-alu-foil,
     .inner-page-alu-pos,
@@ -338,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
     .inner-page-pri-foil,
     .inner-page-pvc-foil,
     .inner-page-zic-sud {
-        height: 40vh !important;
+        height: 50vh !important;
     }
 }
 
@@ -350,7 +315,7 @@ h1, h2, h3, h4, h5, h6 {
     .inner-page-pri-foil,
     .inner-page-pvc-foil,
     .inner-page-zic-sud {
-        height: 30vh !important;
+        height: 35vh !important;
     }
 }
 

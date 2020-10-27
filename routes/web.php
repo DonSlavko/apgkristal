@@ -17,24 +17,34 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('konfekcija', function () {
+    return view('usluge.konfekcija');
+});
+Route::get('profesionalni-kupci', function () {
+    return view('usluge.profesionalni');
+});
+Route::get('jambo-rolne', function () {
+    return view('usluge.jambo');
+});
+
 Route::get('aluminijumska-folija', function () {
-    return view('alu-foil');
+    return view('proizvodi.alu-foil');
 });
 Route::get('aluminijumske-posude', function () {
-    return view('alu-pos');
+    return view('proizvodi.alu-pos');
 });
 Route::get('papir-za-pecenje', function () {
-    return view('pap-pec');
+    return view('proizvodi.pap-pec');
 });
 Route::get('papir-u-tabacima', function () {
-    return view('pap-tab');
+    return view('proizvodi.pap-tab');
 });
 Route::get('prijanjajuca-foilja', function () {
-    return view('pri-foil');
+    return view('proizvodi.pri-foil');
 });
 Route::get('pvc-folija', function () {
-    return view('pvc-foil');
+    return view('proizvodi.pvc-foil');
 });
 Route::get('zica-za-sudove', function () {
-    return view('zic-sud');
+    return view('proizvodi.zic-sud');
 });
