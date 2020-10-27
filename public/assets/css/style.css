@@ -242,52 +242,116 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .inner-page-alu-foil {
-    width: 100%;
     background-image: url(../img/portfolio/alufolija.webp) !important;
-    background-position: center bottom !important;
-    height: 100vh !important;
 }
 
 .inner-page-alu-pos {
-    width: 100%;
     background-image: url(../img/portfolio/aluposude.webp) !important;
-    background-position: center bottom !important;
-    height: 100vh !important;
 }
 
 .inner-page-pap-tab {
-    width: 100%;
     background-image: url(../img/portfolio/papir_u_tabacima.webp) !important;
-    background-position: center bottom !important;
-    height: 100vh !important;
 }
 
 .inner-page-pap-pec {
-    width: 100%;
     background-image: url(../img/portfolio/papir_za_pecenje.webp) !important;
-    background-position: center bottom !important;
-    height: 100vh !important;
 }
 
 .inner-page-pri-foil {
-    width: 100%;
     background-image: url(../img/portfolio/prijanjajuca_folija.webp) !important;
-    background-position: center bottom !important;
-    height: 100vh !important;
 }
 
 .inner-page-pvc-foil {
-    width: 100%;
     background-image: url(../img/portfolio/pvc_folija.webp) !important;
-    background-position: center bottom !important;
-    height: 100vh !important;
 }
 
 .inner-page-zic-sud {
-    width: 100%;
     background-image: url(../img/portfolio/zica_za_sudove.webp) !important;
+}
+
+.inner-page-alu-foil,
+.inner-page-alu-pos,
+.inner-page-pap-tab,
+.inner-page-pap-pec,
+.inner-page-pri-foil,
+.inner-page-pvc-foil,
+.inner-page-zic-sud {
+    width: 100%;
     background-position: center bottom !important;
-    height: 100vh !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% auto !important;
+}
+
+@media only screen  and (min-width : 1224px) {
+    .inner-page-alu-foil,
+    .inner-page-alu-pos,
+    .inner-page-pap-tab,
+    .inner-page-pap-pec,
+    .inner-page-pri-foil,
+    .inner-page-pvc-foil,
+    .inner-page-zic-sud {
+        height: 100vh !important;
+    }
+}
+
+@media only screen  and (max-width : 1224px) {
+    .inner-page-alu-foil,
+    .inner-page-alu-pos,
+    .inner-page-pap-tab,
+    .inner-page-pap-pec,
+    .inner-page-pri-foil,
+    .inner-page-pvc-foil,
+    .inner-page-zic-sud {
+        height: 80vh !important;
+    }
+}
+
+@media (max-width: 1024px) and (orientation : portrait) {
+    .inner-page-alu-foil,
+    .inner-page-alu-pos,
+    .inner-page-pap-tab,
+    .inner-page-pap-pec,
+    .inner-page-pri-foil,
+    .inner-page-pvc-foil,
+    .inner-page-zic-sud {
+        height: 60vh !important;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+    .inner-page-alu-foil,
+    .inner-page-alu-pos,
+    .inner-page-pap-tab,
+    .inner-page-pap-pec,
+    .inner-page-pri-foil,
+    .inner-page-pvc-foil,
+    .inner-page-zic-sud {
+        height: 70vh !important;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+    .inner-page-alu-foil,
+    .inner-page-alu-pos,
+    .inner-page-pap-tab,
+    .inner-page-pap-pec,
+    .inner-page-pri-foil,
+    .inner-page-pvc-foil,
+    .inner-page-zic-sud {
+        height: 40vh !important;
+    }
+}
+
+@media (max-width: 512px) {
+    .inner-page-alu-foil,
+    .inner-page-alu-pos,
+    .inner-page-pap-tab,
+    .inner-page-pap-pec,
+    .inner-page-pri-foil,
+    .inner-page-pvc-foil,
+    .inner-page-zic-sud {
+        height: 30vh !important;
+    }
 }
 
 /*--------------------------------------------------------------
