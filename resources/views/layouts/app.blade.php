@@ -42,7 +42,7 @@
     <div class="container">
 
         <div id="logo" class="pull-left">
-            <a href="/"><img src="assets/img/kristal-logo.webp" alt=""></a>
+            <a href="/"><img src="/assets/img/kristal-logo.webp" alt=""></a>
         </div>
 
         <nav id="nav-menu-container">
