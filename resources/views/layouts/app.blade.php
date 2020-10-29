@@ -10,22 +10,22 @@
     <meta content="APG Kristal Group, Auminijumska folija, Papir za pecenje, prijanjajuca folija, folija" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/assets/img/favicon.png" rel="icon">
+    <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
 
     <!-- Vendor CSS Files -->
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="/assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
 
     <!-- =======================================================
     * Template Name: Regna - v2.1.0
@@ -42,9 +42,7 @@
     <div class="container">
 
         <div id="logo" class="pull-left">
-            <!--<a href="index.html">KRISTAL&lt;!&ndash;<img src="assets/img/logo.png" alt="">&ndash;&gt;</a>-->
-            <!-- Uncomment below if you prefer to use a text logo -->
-            <h1><a href="/">Kristal</a></h1>
+            <a href="/"><img src="assets/img/kristal-logo.webp" alt=""></a>
         </div>
 
         <nav id="nav-menu-container">
@@ -54,42 +52,42 @@
                     <li><a href="#about">O nama</a></li>
                     <li class="menu-has-children"><a href="#services">Usluge</a>
                         <ul>
-                            <li><a href="/konfekcija">KONFEKCIJA</a></li>
-                            <li><a href="/profesionalni-kupci">PROFESIONALNI KUPCI</a></li>
-                            <li><a href="/jambo-rolne">JAMBO ROLNE</a></li>
+                            <li><a href="/usluge/konfekcija">KONFEKCIJA</a></li>
+                            <li><a href="/usluge/profesionalni-kupci">PROFESIONALNI KUPCI</a></li>
+                            <li><a href="/usluge/jambo-rolne">JAMBO ROLNE</a></li>
                         </ul>
                     </li>
                     <li class="menu-has-children"><a href="#portfolio">Proizvodi</a>
                         <ul>
-                            <li><a href="/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
-                            <li><a href="/prijanjajuca-foilja">PRIJANJAJUĆA FOLIJA</a></li>
-                            <li><a href="/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
-                            <li><a href="/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
-                            <li><a href="/papir-u-tabacima">PAPIR U TABACIMA</a></li>
-                            <li><a href="/pvc-folija">PVC FOLIJA</a></li>
-                            <li><a href="/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
+                            <li><a href="/proizvodi/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
+                            <li><a href="/proizvodi/prijanjajuca-foilja">PRIJANJAJUĆA FOLIJA</a></li>
+                            <li><a href="/proizvodi/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
+                            <li><a href="/proizvodi/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
+                            <li><a href="/proizvodi/papir-u-tabacima">PAPIR U TABACIMA</a></li>
+                            <li><a href="/proizvodi/pvc-folija">PVC FOLIJA</a></li>
+                            <li><a href="/proizvodi/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
                     <li><a href="#contact">Kontakt</a></li>
                 @else
-                    <li><a href="/">Pocetna</a></li>
+                    <li><a href="/">Početna</a></li>
                     <li><a href="/#about">O nama</a></li>
                     <li class="menu-has-children"><a href="/#services">Usluge</a>
                         <ul>
-                            <li><a href="/konfekcija">KONFEKCIJA</a></li>
-                            <li><a href="/profesionalni-kupci">PROFESIONALNI KUPCI</a></li>
-                            <li><a href="/jambo-rolne">JAMBO ROLNE</a></li>
+                            <li><a href="/usluge/konfekcija">KONFEKCIJA</a></li>
+                            <li><a href="/usluge/profesionalni-kupci">PROFESIONALNI KUPCI</a></li>
+                            <li><a href="/usluge/jambo-rolne">JAMBO ROLNE</a></li>
                         </ul>
                     </li>
                     <li class="menu-has-children"><a href="/#portfolio">Proizvodi</a>
                         <ul>
-                            <li><a href="/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
-                            <li><a href="/prijanjajuca-foilja">PRIJANJAJUĆA FOLIJA</a></li>
-                            <li><a href="/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
-                            <li><a href="/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
-                            <li><a href="/papir-u-tabacima">PAPIR U TABACIMA</a></li>
-                            <li><a href="/pvc-folija">PVC FOLIJA</a></li>
-                            <li><a href="/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
+                            <li><a href="/proizvodi/aluminijumska-folija">ALUMINIJUMSKA FOLIJA</a></li>
+                            <li><a href="/proizvodi/prijanjajuca-foilja">PRIJANJAJUĆA FOLIJA</a></li>
+                            <li><a href="/proizvodi/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
+                            <li><a href="/proizvodi/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
+                            <li><a href="/proizvodi/papir-u-tabacima">PAPIR U TABACIMA</a></li>
+                            <li><a href="/proizvodi/pvc-folija">PVC FOLIJA</a></li>
+                            <li><a href="/proizvodi/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
                     <li><a href="/#contact">Kontakt</a></li>
@@ -130,21 +128,21 @@
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
 <!-- Vendor JS Files -->
-<script src="assets/vendor/jquery/jquery.min.js"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-<script src="assets/vendor/counterup/counterup.min.js"></script>
-<script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-<script src="assets/vendor/superfish/superfish.min.js"></script>
-<script src="assets/vendor/hoverIntent/hoverIntent.js"></script>
-<script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-<script src="assets/vendor/venobox/venobox.min.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
+<script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="/assets/vendor/php-email-form/validate.js"></script>
+<script src="/assets/vendor/counterup/counterup.min.js"></script>
+<script src="/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+<script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="/assets/vendor/superfish/superfish.min.js"></script>
+<script src="/assets/vendor/hoverIntent/hoverIntent.js"></script>
+<script src="/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+<script src="/assets/vendor/venobox/venobox.min.js"></script>
+<script src="/assets/vendor/aos/aos.js"></script>
 
 <!-- Template Main JS File -->
-<script src="assets/js/main.js"></script>
+<script src="/assets/js/main.js"></script>
 
 </body>
 

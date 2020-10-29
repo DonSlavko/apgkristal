@@ -14,21 +14,40 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Inner Page</h2>
+                    <h2>PAPIR ZA PEČENJE</h2>
                     <ol>
-                        <li><a href="/">Pocetna</a></li>
-                        <li>Example Page</li>
+                        <li><a href="/">Početna</a></li>
+                        <li><a href="/#portfolio">Proizvodi</a></li>
+                        <li>Papir za pečenje</li>
                     </ol>
                 </div>
 
             </div>
         </section><!-- End Breadcrumbs Section -->
 
-        <section class="inner-page pt-4">
+        <section class="portfolio-details">
             <div class="container">
-                <p>
-                    Example inner page template
-                </p>
+                <div class="portfolio-description">
+                    <p>
+                        Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi tavu od paljenja i
+                        pomoći domaćici da brže rešava kuhinjske poslove. Svrha papira za pečenje je sprečiti da se
+                        proizvod lepi za lim za pečenje kako bi se sprečilo
+                        da gori. Takođe štiti od izgaranja u slučaju izlivanja punjenja. Pećnica prilikom
+                        spremanja hrane, ostaju čiste a hrana se ne lepi.
+
+                    </p>
+                </div>
+
+                <div class="portfolio-details-container">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var1.webp"
+                             class="img-fluid" alt="Papir za pecenje">
+                        <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var2.webp"
+                             class="img-fluid" alt="Papir za pecenje">
+                        <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var3.webp"
+                             class="img-fluid" alt="Papir za pecenje">
+                    </div>
+                </div>
             </div>
         </section>
 

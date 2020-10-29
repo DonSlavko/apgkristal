@@ -14,21 +14,37 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Inner Page</h2>
+                    <h2>ŽICA ZA SUDOVE</h2>
                     <ol>
-                        <li><a href="/">Pocetna</a></li>
-                        <li>Example Page</li>
+                        <li><a href="/">Početna</a></li>
+                        <li><a href="/#portfolio">Proizvodi</a></li>
+                        <li>Žica za sudove</li>
                     </ol>
                 </div>
 
             </div>
         </section><!-- End Breadcrumbs Section -->
 
-        <section class="inner-page pt-4">
+        <section class="portfolio-details">
             <div class="container">
-                <p>
-                    Example inner page template
-                </p>
+                <div class="portfolio-description">
+                    <p>
+                        Da, proizvođači smo i najvalitetnijih žica za sudove na tržištu. Vaš KRISTAL misli na vas.
+                    </p>
+                </div>
+
+                <div class="portfolio-details-container">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_mala.webp" class="img-fluid"
+                             alt="Zica za sudove">
+                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_velika.webp" class="img-fluid"
+                             alt="Zica za sudove">
+                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_gratis.webp" class="img-fluid"
+                             alt="Zica za sudove">
+                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_sve.webp" class="img-fluid"
+                             alt="Zica za sudove">
+                    </div>
+                </div>
             </div>
         </section>
 

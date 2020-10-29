@@ -14,21 +14,36 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Inner Page</h2>
+                    <h2>PVC FOLIJA</h2>
                     <ol>
-                        <li><a href="/">Pocetna</a></li>
-                        <li>Example Page</li>
+                        <li><a href="/">Početna</a></li>
+                        <li><a href="/#portfolio">Proizvodi</a></li>
+                        <li>PVC folija</li>
                     </ol>
                 </div>
 
             </div>
         </section><!-- End Breadcrumbs Section -->
 
-        <section class="inner-page pt-4">
+        <section class="portfolio-details">
             <div class="container">
-                <p>
-                    Example inner page template
-                </p>
+                <div class="portfolio-description">
+                    <p>
+                        PVC folije se dobijaju kalendrisanjem ili ekstrudiranjem.
+                        Odlikuju se izuzetnom transparentnošću, visokim sjajem i ravnom površinom.
+                        Na njima se može štampati bilo kojom tehnologijom pa se zbog toga često koriste za izradu
+                        reklama. Zahvaljujući svojoj otpornosti na hemikalije, veoma lakom oblikovanju zagrevanjem,
+                        presovanjem i jednostavnoj mehaničkoj obradi veoma često se koriste u proizvodnji pakovanja i
+                        ambalaže.
+                    </p>
+                </div>
+
+                <div class="portfolio-details-container">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="/assets/img/proizvodi/pvc/pvc_folija_var1.webp" class="img-fluid" alt="pvc folija">
+                        <img src="/assets/img/proizvodi/pvc/pvc_folija_var2.webp" class="img-fluid" alt="pvc folija">
+                    </div>
+                </div>
             </div>
         </section>
 

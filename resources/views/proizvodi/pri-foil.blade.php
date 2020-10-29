@@ -14,21 +14,43 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Inner Page</h2>
+                    <h2>PRIJANJAJUĆA FOLIJA</h2>
                     <ol>
-                        <li><a href="/">Pocetna</a></li>
-                        <li>Example Page</li>
+                        <li><a href="/">Početna</a></li>
+                        <li><a href="/#portfolio">Proizvodi</a></li>
+                        <li>Prijanjajuća folija</li>
                     </ol>
                 </div>
 
             </div>
         </section><!-- End Breadcrumbs Section -->
 
-        <section class="inner-page pt-4">
+        <section class="portfolio-details">
             <div class="container">
-                <p>
-                    Example inner page template
-                </p>
+                <div class="portfolio-description">
+                    <p>
+                        Idealna za zaštitu pri pakovanju proizvoda (kutija) na paletama. Odlično prijanjanje omogućava
+                        lako omotavanje oko proizvoda. Folija štiti proizvode od vanjskih uticaja i mogućih oštećenja
+                        pri transportu. Primena prijanjajuće folije veže se uz prehrambenu industriju, pića,
+                        farmaceutsku
+                        industriju, papirnu, keramiku, elektroniku, supermarkete, poljoprivredu, i gotovo svim drugim
+                        industrijskim granama.
+                        Vrlo je efikasna u osiguravanju proizvoda tokom transporta. Folije su jake, elastične i otporne
+                        na
+                        kidanje. Vrlo dobra probojna otpornost. Završetak folije prijanja bez dodatnog lepljenja.
+                    </p>
+                </div>
+
+                <div class="portfolio-details-container">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var1.webp"
+                             class="img-fluid" alt="Prijanjajuća folija">
+                        <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var2.webp"
+                             class="img-fluid" alt="Prijanjajuća folija">
+                        <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var3.webp"
+                             class="img-fluid" alt="Prijanjajuća folija">
+                    </div>
+                </div>
             </div>
         </section>
 

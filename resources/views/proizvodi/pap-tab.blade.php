@@ -14,21 +14,32 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Inner Page</h2>
+                    <h2>PAPIR U TABACIMA</h2>
                     <ol>
-                        <li><a href="/">Pocetna</a></li>
-                        <li>Example Page</li>
+                        <li><a href="/">Početna</a></li>
+                        <li><a href="/#portfolio">Proizvodi</a></li>
+                        <li>Papir u tabacima</li>
                     </ol>
                 </div>
 
             </div>
         </section><!-- End Breadcrumbs Section -->
 
-        <section class="inner-page pt-4">
+        <section class="portfolio-details">
             <div class="container">
-                <p>
-                    Example inner page template
-                </p>
+                <div class="portfolio-description">
+                    <p>
+                        Pored našeg velikog izbora proizvoda iz našeg asortimana
+                        naravno nalazi se i papir u tabacima, veličine 40cm x 60cm.
+                    </p>
+                </div>
+
+                <div class="portfolio-details-container">
+                    <div class="owl-carousel portfolio-details-carousel">
+                        <img src="/assets/img/proizvodi/tabaci/papir_1.webp" class="img-fluid" alt="papir u tabacima">
+                        <img src="/assets/img/proizvodi/tabaci/papir_2.webp" class="img-fluid" alt="papir u tabacima">
+                    </div>
+                </div>
             </div>
         </section>
 

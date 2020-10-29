@@ -13,38 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::view('/', 'welcome');
+
+Route::prefix('usluge')->group(function () {
+    Route::view('konfekcija', 'usluge.konfekcija');
+    Route::view('profesionalni-kupci', 'usluge.profesionalni');
+    Route::view('jambo-rolne', 'usluge.jambo');
 });
 
-Route::get('konfekcija', function () {
-    return view('usluge.konfekcija');
-});
-Route::get('profesionalni-kupci', function () {
-    return view('usluge.profesionalni');
-});
-Route::get('jambo-rolne', function () {
-    return view('usluge.jambo');
-});
-
-Route::get('aluminijumska-folija', function () {
-    return view('proizvodi.alu-foil');
-});
-Route::get('aluminijumske-posude', function () {
-    return view('proizvodi.alu-pos');
-});
-Route::get('papir-za-pecenje', function () {
-    return view('proizvodi.pap-pec');
-});
-Route::get('papir-u-tabacima', function () {
-    return view('proizvodi.pap-tab');
-});
-Route::get('prijanjajuca-foilja', function () {
-    return view('proizvodi.pri-foil');
-});
-Route::get('pvc-folija', function () {
-    return view('proizvodi.pvc-foil');
-});
-Route::get('zica-za-sudove', function () {
-    return view('proizvodi.zic-sud');
+Route::prefix('proizvodi')->group(function () {
+    Route::view('aluminijumska-folija', 'proizvodi.alu-foil');
+    Route::view('aluminijumske-posude', 'proizvodi.alu-pos');
+    Route::view('papir-za-pecenje', 'proizvodi.pap-pec');
+    Route::view('papir-u-tabacima', 'proizvodi.pap-tab');
+    Route::view('prijanjajuca-foilja', 'proizvodi.pri-foil');
+    Route::view('pvc-folija', 'proizvodi.pvc-foil');
+    Route::view('zica-za-sudove', 'proizvodi.zic-sud');
 });
