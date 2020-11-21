@@ -46,14 +46,26 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var1.webp" class="img-fluid"
-                             alt="Aluminijumske posude">
-                        <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var2.webp" class="img-fluid"
-                             alt="Aluminijumske posude">
-                        <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var3.webp" class="img-fluid"
-                             alt="Aluminijumske posude">
-                        <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var4.webp" class="img-fluid"
-                             alt="Aluminijumske posude">
+                        <a href="/assets/img/proizvodi/aluposude/aluminijumske_posude_var1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var1.webp"
+                                 class="img-fluid" alt="Aluminijumske posude">
+                        </a>
+                        <a href="/assets/img/proizvodi/aluposude/aluminijumske_posude_var2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var2.webp"
+                                 class="img-fluid" alt="Aluminijumske posude">
+                        </a>
+                        <a href="/assets/img/proizvodi/aluposude/aluminijumske_posude_var3.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var3.webp"
+                                 class="img-fluid" alt="Aluminijumske posude">
+                        </a>
+                        <a href="/assets/img/proizvodi/aluposude/aluminijumske_posude_var4.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/aluposude/aluminijumske_posude_var4.webp"
+                                 class="img-fluid" alt="Aluminijumske posude">
+                        </a>
                     </div>
                 </div>
             </div>

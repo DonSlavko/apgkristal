@@ -40,8 +40,16 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/pvc/pvc_folija_var1.webp" class="img-fluid" alt="pvc folija">
-                        <img src="/assets/img/proizvodi/pvc/pvc_folija_var2.webp" class="img-fluid" alt="pvc folija">
+                        <a href="/assets/img/proizvodi/pvc/pvc_folija_var1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/pvc/pvc_folija_var1.webp"
+                                 class="img-fluid" alt="Pvc folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/pvc/pvc_folija_var2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/pvc/pvc_folija_var2.webp"
+                                 class="img-fluid" alt="Pvc folija">
+                        </a>
                     </div>
                 </div>
             </div>

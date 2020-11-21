@@ -40,12 +40,21 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var1.webp"
-                             class="img-fluid" alt="Papir za pecenje">
-                        <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var2.webp"
-                             class="img-fluid" alt="Papir za pecenje">
-                        <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var3.webp"
-                             class="img-fluid" alt="Papir za pecenje">
+                        <a href="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var1.webp"
+                                 class="img-fluid" alt="Papir za pecenje">
+                        </a>
+                        <a href="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var2.webp"
+                                 class="img-fluid" alt="Papir za pecenje">
+                        </a>
+                        <a href="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var3.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/papir_za_pecenje/papir_za_pecenje_8m_var3.webp"
+                                 class="img-fluid" alt="Papir za pecenje">
+                        </a>
                     </div>
                 </div>
             </div>

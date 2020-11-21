@@ -37,8 +37,16 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/usluge/jambo/jambo_alu.webp" class="img-fluid" alt="jambo rolna">
-                        <img src="/assets/img/usluge/jambo/jambo_strech.webp" class="img-fluid" alt="jambo rolna">
+                        <a href="/assets/img/usluge/jambo/jambo_alu.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/usluge/jambo/jambo_alu.webp"
+                                 class="img-fluid" alt="Jambo rolna">
+                        </a>
+                        <a href="/assets/img/usluge/jambo/jambo_strech.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/usluge/jambo/jambo_strech.webp"
+                                 class="img-fluid" alt="Jambo rolna">
+                        </a>
                     </div>
                 </div>
             </div>

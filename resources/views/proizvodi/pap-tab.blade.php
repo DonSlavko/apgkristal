@@ -36,8 +36,16 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/tabaci/papir_1.webp" class="img-fluid" alt="papir u tabacima">
-                        <img src="/assets/img/proizvodi/tabaci/papir_2.webp" class="img-fluid" alt="papir u tabacima">
+                        <a href="/assets/img/proizvodi/tabaci/papir_1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/tabaci/papir_1.webp"
+                                 class="img-fluid" alt="Papir u tabacima">
+                        </a>
+                        <a href="/assets/img/proizvodi/tabaci/papir_2.webp"
+                               data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/tabaci/papir_2.webp"
+                                 class="img-fluid" alt="Papir u tabacima">
+                        </a>
                     </div>
                 </div>
             </div>

@@ -43,12 +43,21 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var1.webp"
-                             class="img-fluid" alt="Prijanjajuća folija">
-                        <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var2.webp"
-                             class="img-fluid" alt="Prijanjajuća folija">
-                        <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var3.webp"
-                             class="img-fluid" alt="Prijanjajuća folija">
+                        <a href="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var1.webp"
+                                 class="img-fluid" alt="Prijanjajuća folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var2.webp"
+                                 class="img-fluid" alt="Prijanjajuća folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var3.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/prijanjajuca/prijanjajuca_folija_20m_var3.webp"
+                                 class="img-fluid" alt="Prijanjajuća folija">
+                        </a>
                     </div>
                 </div>
             </div>

@@ -35,14 +35,26 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_mala.webp" class="img-fluid"
-                             alt="Zica za sudove">
-                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_velika.webp" class="img-fluid"
-                             alt="Zica za sudove">
-                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_gratis.webp" class="img-fluid"
-                             alt="Zica za sudove">
-                        <img src="/assets/img/proizvodi/zica/zica_za_sudove_sve.webp" class="img-fluid"
-                             alt="Zica za sudove">
+                        <a href="/assets/img/proizvodi/zica/zica_za_sudove_mala.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/zica/zica_za_sudove_mala.webp"
+                                 class="img-fluid" alt="Zica za sudove">
+                        </a>
+                        <a href="/assets/img/proizvodi/zica/zica_za_sudove_velika.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/zica/zica_za_sudove_velika.webp"
+                                 class="img-fluid" alt="Zica za sudove">
+                        </a>
+                        <a href="/assets/img/proizvodi/zica/zica_za_sudove_gratis.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/zica/zica_za_sudove_gratis.webp"
+                                 class="img-fluid" alt="Zica za sudove">
+                        </a>
+                        <a href="/assets/img/proizvodi/zica/zica_za_sudove_sve.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/zica/zica_za_sudove_sve.webp"
+                                 class="img-fluid" alt="Zica za sudove">
+                        </a>
                     </div>
                 </div>
             </div>

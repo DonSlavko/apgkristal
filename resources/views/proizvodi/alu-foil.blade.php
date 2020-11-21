@@ -39,20 +39,41 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_sve.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_10m.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_20m.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_30m.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_20m_var1.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_20m_var2.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
-                        <img src="/assets/img/proizvodi/alufolija/alufolija_20m_var3.webp" class="img-fluid"
-                             alt="Aluminijumska folija">
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_sve.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_sve.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_10m.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_10m.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_20m.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_20m.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_30m.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_30m.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_20m_var1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_20m_var1.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_20m_var2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_20m_var2.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
+                        <a href="/assets/img/proizvodi/alufolija/alufolija_20m_var3.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/proizvodi/alufolija/alufolija_20m_var3.webp"
+                                 class="img-fluid" alt="Aluminijumska folija">
+                        </a>
                     </div>
                 </div>
             </div>

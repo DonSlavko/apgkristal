@@ -43,8 +43,16 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/usluge/profesional/prof_1.webp" class="img-fluid" alt="profesionalni kupci">
-                        <img src="/assets/img/usluge/profesional/prof_2.webp" class="img-fluid" alt="profesionalni kupci">
+                        <a href="/assets/img/usluge/profesional/prof_1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/usluge/profesional/prof_1.webp"
+                                 class="img-fluid" alt="Profesionalni kupci">
+                        </a>
+                        <a href="/assets/img/usluge/profesional/prof_2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/usluge/profesional/prof_2.webp"
+                                 class="img-fluid" alt="Profesionalni kupci">
+                        </a>
                     </div>
                 </div>
             </div>

@@ -37,8 +37,16 @@
 
                 <div class="portfolio-details-container">
                     <div class="owl-carousel portfolio-details-carousel">
-                        <img src="/assets/img/usluge/konfekcija/konf_1.webp" class="img-fluid" alt="konfekcija">
-                        <img src="/assets/img/usluge/konfekcija/konf_2.webp" class="img-fluid" alt="konfekcija">
+                        <a href="/assets/img/usluge/konfekcija/konf_1.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/usluge/konfekcija/konf_1.webp"
+                                 class="img-fluid" alt="Konfekcija">
+                        </a>
+                        <a href="/assets/img/usluge/konfekcija/konf_2.webp"
+                           data-gall="portfolioGallery" class="venobox preview-link">
+                            <img src="/assets/img/usluge/konfekcija/konf_2.webp"
+                                 class="img-fluid" alt="Konfekcija">
+                        </a>
                     </div>
                 </div>
             </div>
