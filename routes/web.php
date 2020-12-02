@@ -15,6 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'welcome');
 
+Route::view('/galerija', 'gallery');
+
 Route::prefix('usluge')->group(function () {
     Route::view('konfekcija', 'usluge.konfekcija');
     Route::view('profesionalni-kupci', 'usluge.profesionalni');

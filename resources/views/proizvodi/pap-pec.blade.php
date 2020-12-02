@@ -29,7 +29,7 @@
             <div class="container">
                 <div class="portfolio-description">
                     <p>
-                        Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi tavu od paljenja i
+                        Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi posudje od paljenja i
                         pomoći domaćici da brže rešava kuhinjske poslove. Svrha papira za pečenje je sprečiti da se
                         proizvod lepi za lim za pečenje kako bi se sprečilo
                         da gori. Takođe štiti od izgaranja u slučaju izlivanja punjenja. Pećnica prilikom

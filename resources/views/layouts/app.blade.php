@@ -68,6 +68,7 @@
                             <li><a href="/proizvodi/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
+                    <li><a href="/galerija">Galerija</a></li>
                     <li><a href="#contact">Kontakt</a></li>
                 @else
                     <li><a href="/">Početna</a></li>
@@ -90,6 +91,7 @@
                             <li><a href="/proizvodi/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
+                    <li><a href="/galerija">Galerija</a></li>
                     <li><a href="/#contact">Kontakt</a></li>
                 @endif
             </ul>
