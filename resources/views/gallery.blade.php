@@ -1,11 +1,13 @@
-@extends('layouts.app', ['landing' => true])
+@extends('layouts.app', ['landing' => false])
 
 @section('content')
-<section id="hero">
-    <div class="hero-container" data-aos="zoom-in" data-aos-delay="100"></div>
-</section><!-- End Hero Section -->
+    <section class="inner-page">
+        <div class="hero-container" data-aos-delay="100">
 
-    <main id="main">
+        </div>
+    </section>
+
+    <main id="main" style="padding-top: 90px">
 
         <!-- ======= Breadcrumbs Section ======= -->
         <section class="breadcrumbs">
