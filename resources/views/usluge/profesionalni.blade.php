@@ -32,7 +32,7 @@
                         Zbog potreba tržišta i naših kupaca razvili smo poseban asortiman artikala velikih metraža,
                         većih pakovanja. Potreba naših profesionalnih kupaca je najbitnija i mi smo tu da im budemo
                         maksimalno na usluzi. Veća pakovanja, veća metraža, prilagodljivost i pronalaženje svakog
-                        rešenja za naše verne potrošače. ALU POSUDE (300m i 1 KG), ALU FOLIJE (1 KG, 150m),
+                        rešenja za naše verne potrošače. ALU POSUDE (raznih dimenzija i militraža), ALU FOLIJE (1 KG, 150m),
                         PVC FOLIJA (300m, 1 KG), PAPIR ZA PEČENJE (1 KG) i PAPIR U TABACIMA (40 x 60). Svi navedeni
                         proizvodi su velika pakovanja specijalna za velike profesionalne kupce (Pekare, Restorane,
                         Fast Food-ove...). Naravno, pogledajte naš celokupni asortiman proizvoda koji vam
