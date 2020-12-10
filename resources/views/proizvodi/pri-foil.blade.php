@@ -39,6 +39,17 @@
                         na
                         kidanje. Vrlo dobra probojna otpornost. Završetak folije prijanja bez dodatnog lepljenja.
                     </p>
+
+                    <p>
+                        Prijanjajuća folija, higijensko-praktična, samolepljiva i višenamenska. Koristi se za pakovanje hrane.
+                        Zadržava miris, ukus i vlažnost namirnica. Neotporna na visoke temperature (rerna, mikrotalasna).
+                        <br>
+                        Držati van domašaja dece!
+                        <br>
+                        Opasnost od gušenja!
+                        <br>
+                        Rok upotrebe neograničen!
+                    </p>
                 </div>
 
                 <div class="portfolio-details-container">

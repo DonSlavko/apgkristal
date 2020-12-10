@@ -64,7 +64,6 @@
                             <li><a href="/proizvodi/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
                             <li><a href="/proizvodi/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
                             <li><a href="/proizvodi/papir-u-tabacima">PAPIR U TABACIMA</a></li>
-                            <li><a href="/proizvodi/pvc-folija">PVC FOLIJA</a></li>
                             <li><a href="/proizvodi/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>
@@ -87,7 +86,6 @@
                             <li><a href="/proizvodi/papir-za-pecenje">PAPIR ZA PEČENJE</a></li>
                             <li><a href="/proizvodi/aluminijumske-posude">ALUMINIJUMSKE POSUDE</a></li>
                             <li><a href="/proizvodi/papir-u-tabacima">PAPIR U TABACIMA</a></li>
-                            <li><a href="/proizvodi/pvc-folija">PVC FOLIJA</a></li>
                             <li><a href="/proizvodi/zica-za-sudove">ŽICA ZA SUDOVE</a></li>
                         </ul>
                     </li>

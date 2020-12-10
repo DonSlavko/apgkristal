@@ -90,8 +90,8 @@
                         <div class="box">
                             <div class="icon"><a href="/usluge/konfekcija"><i class="fa fa-cube"></i></a></div>
                             <h4 class="title">Konfekcija</h4>
-                            <p class="description">Konfekcija su naši verni potrošači manjih metraža, manje
-                                potrošnje.</p>
+                            <p class="description">U konfekciju ubrajamo folije sa manjim
+                                metražama namenjene za domaćinstvo.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
@@ -235,21 +235,6 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item">
-                        <a href="/proizvodi/pvc-folija">
-                            <div class="owl-carousel portfolio-details-carousel-6">
-                                <img src="/assets/img/proizvodi/pvc/pvc_folija_var1.webp" class="img-fluid"
-                                     alt="pvc folija">
-                                <img src="/assets/img/proizvodi/pvc/pvc_folija_var2.webp" class="img-fluid"
-                                     alt="pvc folija">
-                            </div>
-                            <div class="portfolio-info">
-                                <h4>PVC folija</h4>
-                                <p></p>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 offset-lg-4 offset-md-2 portfolio-item">
                         <a href="/proizvodi/zica-za-sudove">
                             <div class="owl-carousel portfolio-details-carousel-7">
                                 <img src="/assets/img/proizvodi/zica/zica_za_sudove_mala_alt.webp" class="img-fluid"

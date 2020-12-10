@@ -29,6 +29,5 @@ Route::prefix('proizvodi')->group(function () {
     Route::view('papir-za-pecenje', 'proizvodi.pap-pec');
     Route::view('papir-u-tabacima', 'proizvodi.pap-tab');
     Route::view('prijanjajuca-foilja', 'proizvodi.pri-foil');
-    Route::view('pvc-folija', 'proizvodi.pvc-foil');
     Route::view('zica-za-sudove', 'proizvodi.zic-sud');
 });

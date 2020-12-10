@@ -29,8 +29,7 @@
             <div class="container">
                 <div class="portfolio-description">
                     <p>
-                        U konfekciju spadaju naši mnogobrojni zadovoljni potrošači koji obožavaju naš proizvod samo
-                        manjih metraža.
+                        U konfekciju ubrajamo folije sa manjim metražama namenjene za domaćinstvo.
                         KRISTAL se trudi da ste zadovoljni i da je uvek dostupan i uvek sa vama.
                     </p>
                 </div>

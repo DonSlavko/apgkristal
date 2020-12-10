@@ -29,12 +29,19 @@
             <div class="container">
                 <div class="portfolio-description">
                     <p>
-                        Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi posudje od paljenja i
+                        Papir za pečenje je vrlo praktična stvar, njegova je glavna svrha zaštititi posuđe od paljenja i
                         pomoći domaćici da brže rešava kuhinjske poslove. Svrha papira za pečenje je sprečiti da se
-                        proizvod lepi za lim za pečenje kako bi se sprečilo
-                        da gori. Takođe štiti od izgaranja u slučaju izlivanja punjenja. Pećnica prilikom
+                        proizvod lepi za lim za pečenje kako bi se sprečilo da gori.
+                        Takođe štiti od izgaranja u slučaju izlivanja punjenja. Pećnica prilikom
                         spremanja hrane, ostaju čiste a hrana se ne lepi.
+                    </p>
 
+                    <p>
+                        Papir za pečenje, obostrano ne lepljiv i visenamenski. Koristi se za pečenje u rerni,
+                        na površini sporeta i u mikrotalasnoj pećnici. Postojan na temperaturi 220C.
+                        Otporan na mikrovalna isijavanja. Idealan kao podloga za torte, peciva, kolače i sveže meso.
+                        Zabranjen direktan kontakt sa užarenim spiralama. Ne koristi se na temperaturi iznad 220C
+                        i ne izlaže plamenu.
                     </p>
                 </div>
 
