@@ -31,7 +31,7 @@
                     <p>
                         Žice za čišćenje i održavanja posuđa, izrađene od kvalitetnog inox materijala.
                         Posebno dizajnirane za skidanje najtvrdokornijih naslaga. Odlikuju se svojim visokim
-                        kvalitetom, i dugovečnosti.
+                        kvalitetom i dugovečnosti.
                         Da, proizvođači smo i najvalitetnijih žica za sudove na tržištu. Vaš KRISTAL misli na vas.
                     </p>
                 </div>
